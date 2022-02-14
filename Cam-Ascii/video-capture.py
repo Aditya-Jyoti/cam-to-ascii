@@ -6,7 +6,7 @@ from time import sleep
 import numpy as np
 import math
 
-DENSITY = r"Ñ@#W$9876543210?!abc;:+=-,._                "
+DENSITY = r"Ñ@#W$9876543210?!abc;:+=-,._            "
 
 def clear_screen():
     if name == "nt":
